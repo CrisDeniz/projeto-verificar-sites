@@ -1,0 +1,10 @@
+
+05/03/2023 19:18:38 - O site: https://random-status-code.herokuapp.com/ esta offline
+05/03/2023 19:18:38 - O site: https://www.alura.com.br esta online
+05/03/2023 19:18:38 - O site: https://www.caelum.com.br esta online
+05/03/2023 19:18:44 - O site: https://random-status-code.herokuapp.com/ esta offline
+05/03/2023 19:18:44 - O site: https://www.alura.com.br esta online
+05/03/2023 19:18:44 - O site: https://www.caelum.com.br esta online
+05/03/2023 19:18:50 - O site: https://random-status-code.herokuapp.com/ esta offline
+05/03/2023 19:18:50 - O site: https://www.alura.com.br esta online
+05/03/2023 19:18:51 - O site: https://www.caelum.com.br esta online
